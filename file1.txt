@@ -1,2 +1,2 @@
-Changement in the file
+File changed in master
 Added a line commited from branch1
