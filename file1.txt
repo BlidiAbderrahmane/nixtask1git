@@ -1,1 +1,2 @@
 Changement in the file
+Added a line commited from branch1
