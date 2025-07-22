@@ -1,1 +1,3 @@
 File changed in master
+Added a line commited from branch1
+Added Also another lien from branch1
